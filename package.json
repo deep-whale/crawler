@@ -1,6 +1,20 @@
 {
   "name": "cralwer",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/async": "^3.0.7",
+    "@types/blessed": "^0.1.17",
+    "@types/node": "^13.7.0",
+    "async": "^3.1.1",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.18",
+    "dotenv": "^8.2.0",
+    "ts-node": "^8.6.2",
+    "twisted": "^1.17.0",
+    "typescript": "^3.7.5"
+  },
+  "scripts": {
+    "start": "ts-node ./index.ts"
+  }
 }
