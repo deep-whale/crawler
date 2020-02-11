@@ -1,4 +1,6 @@
 .env
+accounts.json
+match.json
 
 # Created by https://www.gitignore.io/api/go,git,linux,clion,macos,pycharm,windows,intellij,webstorm,phpstorm,nodejs,node
 # Edit at https://www.gitignore.io/?templates=go,git,linux,clion,macos,pycharm,windows,intellij,webstorm,phpstorm,nodejs,node
